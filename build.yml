@@ -6,7 +6,7 @@ import {
   Camera, Upload, Sparkles, RefreshCw, Sun, Check, 
   Palette, Droplets, Download, Layers, X, Paintbrush, Zap, Play
 } from 'lucide-react';
-
+gradlew assembleDebug
 // --- Firebase Initialization ---
 const firebaseConfig = JSON.parse(__firebase_config);
 const app = initializeApp(firebaseConfig);
